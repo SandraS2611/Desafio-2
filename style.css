@@ -1,0 +1,38 @@
+    nav ul li {
+        list-style: none;
+        float: right;
+        margin-top: 4%;
+        padding-inline-start: 1%;
+        color: rgb(116, 216, 34);
+        font-size: 110%;
+    }
+    
+    p {
+        margin-top: 5%;
+        margin-right: 25%;
+        margin-bottom: 0%;
+        margin-left: 25%;
+        font-style: oblique;
+        font-size: large
+    }
+    
+    h1 {
+        color: brown;
+        font-style: inherit;
+    }
+    
+    h2 {
+        color: green;
+        margin-top: 2%;
+        margin-right: 15%;
+        margin-bottom: 5%;
+        margin-left: 35%;
+    }
+    
+    h3 {
+        margin-top: 40%;
+        margin-right: 40%;
+        margin-bottom: 0%;
+        margin-left: 45%;
+        font-style: italic;
+    }
