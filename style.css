@@ -37,9 +37,20 @@ h3 {
     font-style: italic;
 }
 
+h6{
+    padding: 25px;
+    text-align: center;
+}
+
 ul{
     display: flex;
     justify-content: center; 
+    list-style-type: none;
+}
+  
+li a{
+display: block;
+padding: 8px;
 }
 
 .menu {
@@ -69,7 +80,7 @@ img {
     margin: 10px auto auto auto;
 }
 
-.rede-sociales {
+.redes-sociales {
     text-align: center;
     margin-left: 10px;
 }
