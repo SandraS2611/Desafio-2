@@ -65,10 +65,9 @@ img {
     margin-left: 10px;
 }
 
-.redes-sociales {}
 
-aside ul a img {
-    float: block;
+.aside ul {
+    display: flex;
 }
 
 .redes-sociales p {
